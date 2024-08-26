@@ -1,11 +1,14 @@
+import Card from "../Card";
+
 function Cards() {
-    return ( 
+    return (
         <div className="cards">
-            <h1>01</h1>
-            <h2></h2>
-            <p></p>
+            <Card />
+            <Card />
+            <Card />
+            <Card />
         </div>
-     );
+    );
 }
 
 export default Cards;

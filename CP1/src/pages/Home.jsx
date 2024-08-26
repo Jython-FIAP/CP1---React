@@ -1,12 +1,12 @@
 import Hero from "../components/home/Hero";
-// import Cards from "../components/home/Cards";
+import Cards from "../components/home/Cards";
 
 
 function Home() {
     return ( 
         <div>
             <Hero />
-            {/* <Cards /> */}
+            <Cards />
         </div>
      );
 }
