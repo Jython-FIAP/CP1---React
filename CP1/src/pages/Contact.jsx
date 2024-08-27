@@ -1,6 +1,6 @@
 import './Contact.css'
-import ContactHero from '../components/ContactHero'
-import ContactForms from './components/ContactForms'
+import ContactHero from '../components/contact/ContactHero'
+import ContactForms from '../components/contact/ContactForms'
 
 function Contact(){
  
