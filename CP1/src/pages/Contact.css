@@ -1,0 +1,24 @@
+section{
+  height: 80dvh;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 0.5rem 1fr;
+  padding: 3rem 2rem;
+  align-content: center;
+  justify-items: center;
+}
+
+.ContactHero{
+  width: 60%;
+  grid-column: 1/2;
+}
+.ContactForms{
+  width: 60%;
+  grid-column: 3/4;
+}
+
+.column-border{
+  grid-column: 2/3 ;
+  grid-row: 1/-1;
+  background-color: #B9B7B7;
+}
