@@ -41,10 +41,14 @@ header {
   justify-items: center;
 }
 
-header p:hover {
-  text-decoration-line: underline;
+header a {
+  text-decoration: none;
+  color: var(--color-text);
 }
 
+header a:hover {
+  text-decoration: underline;
+}
 
 /* ---------------------------Home--------------------------- */
 
