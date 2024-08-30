@@ -1,5 +1,5 @@
 import Hero from "../components/home/Hero";
-import Cards from "../components/home/Cards";
+import Cards from "../components/home/Cardlist";
 
 
 function Home() {

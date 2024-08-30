@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+:root{
+    --cor-btn: #6975E8;
+}
+
+
+h1{
+    font-size: 7rem;
+    color: #333;
+    line-height: 8rem;
+}
+
+.imgs{
+    width: 9%;
+    cursor: pointer;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    gap: 4rem; 
+}
+
+.hero1{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
