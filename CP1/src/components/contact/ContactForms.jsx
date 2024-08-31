@@ -1,4 +1,5 @@
 import './ContactForms.css'
+import { Link } from 'react-router-dom';
 
 function ContactForms() {
     return ( 
@@ -17,7 +18,8 @@ function ContactForms() {
                 <input type="text" id="message"/>
             </inputbox> 
 
-             <button name='btnAssign'>Enviar</button>
+             <Link to="/send"><button name='btnAssign'>Enviar</button></Link>
+             
 
 
 
