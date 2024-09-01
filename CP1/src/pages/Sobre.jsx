@@ -1,6 +1,9 @@
+import Page404 from "./Page404";
+
+
 function Sobre() {
     return ( 
-        <h1>Sobre</h1>
+        <Page404 />
      );
 }
 

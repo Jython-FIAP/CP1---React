@@ -2,6 +2,7 @@ function Page404() {
     return ( 
         <div>
             <h2>404 - Página não encontrada</h2>
+            <p>Está pagina provavelmente ainda está em desenvolvimento ou não exite, entre em contato!</p>
         </div>
      );
 }
