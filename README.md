@@ -56,5 +56,5 @@ Este projeto é licenciado sob a Licença MIT.
 ## Links
 
 - [Repositório no GitHub](#) _(https://github.com/Jython-FIAP/CP1---React)_
-- [Site publicado na Vercel](#) _(https://cp-react-01-sepia.vercel.app/)_
+- [Site publicado na Vercel](#) _(https://web.jython.dev)_
 
